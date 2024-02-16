@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/6. Vue.md",
+                "file": "Language/1. Golang.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/6. Vue.md",
+                "file": "Language/1. Golang.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/6. Vue.md",
+                "file": "Language/1. Golang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/6. Vue.md"
+                "file": "Language/1. Golang.md"
               }
             }
           },
@@ -168,6 +168,7 @@
   },
   "active": "3ecde1fb2aab50d8",
   "lastOpenFiles": [
+    "Web/6. Vue.md",
     "Web/0. web_images/checked_all.png",
     "Language/3. Python.md",
     "Embedded/1. Embedded Linux.md",
@@ -183,7 +184,6 @@
     "Web/1. HTML.md",
     "Web/5. React.md",
     "Web/4. TypeScript.md",
-    "Web/6. Vue.md",
     "Web/8. Angular.md",
     "Windows/1. WSL.md",
     "Web/9. WXmp.md",
